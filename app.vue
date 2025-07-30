@@ -63,7 +63,7 @@ useHead({
   <div class="columns is-gapless" style="min-height: 100vh">
     <div
       class="column is-3"
-      style="background-image: url(/P10003192644.jpg); background-size: cover"
+      style="background-image: url(/images/hero.jpg); background-size: cover"
     >
       &nbsp;
     </div>
