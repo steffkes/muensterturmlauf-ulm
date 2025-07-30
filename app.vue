@@ -5,7 +5,7 @@ const activeModal = ref(false);
 
 useSeoMeta({
   ogImage: "/og.jpg",
-  description: event.description + " (Freitag, 26. Juni 2026)",
+  description: event.description + " (Freitag, 12. Juni 2026)",
 });
 
 useHead({
