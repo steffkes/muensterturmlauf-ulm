@@ -1,5 +1,5 @@
 <script setup>
-const { event, formattedDate  } = await useEvent();
+const { event, formattedDate } = await useEvent();
 
 const activeModal = ref(false);
 
@@ -61,9 +61,15 @@ useHead({
 
 <template>
   <div class="columns is-gapless" style="min-height: 100vh">
+    <!-- min-height on column needed for mobile -->
     <div
       class="column is-3"
-      style="background-image: url(/images/hero.jpg); background-size: cover"
+      style="
+        background-image: url(/images/hero.jpg);
+        background-size: cover;
+        background-position: 50% 15%;
+        min-height: 50vh;
+      "
     >
       &nbsp;
     </div>
