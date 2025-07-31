@@ -132,15 +132,17 @@ useHead({
             <div class="column is-4 competitions">
               <div class="columns is-mobile">
                 <div class="column has-text-centered">
-                  <img
-                    src="/images/muensterturmlauf-ulm.svg"
-                    alt="Logo Münsterturmlauf Ulm"
-                  />
-                  <p class="has-text-centered">
-                    <span>Münsterturmlauf</span>
-                    <span>Ulm</span>
-                    <span class="tag mt-2 is-info">Fr, 12.06.26</span>
-                  </p>
+                  <a href="//www.fire-trail-nesselwang.de">
+                    <img
+                      src="/images/fire-trail-nesselwang.svg"
+                      alt="Logo Fire Trail Nesselwang"
+                    />
+                    <p class="has-text-centered">
+                      <span>Fire Trail</span>
+                      <span>Nesselwang</span>
+                      <span class="tag mt-2 is-success">Sa, 18.10.25</span>
+                    </p>
+                  </a>
                 </div>
                 <div class="column has-text-centered">
                   <a href="//www.schachmatt-ulm.de">
@@ -160,17 +162,15 @@ useHead({
             <div class="column is-4 competitions">
               <div class="columns is-mobile">
                 <div class="column has-text-centered">
-                  <a href="//www.fire-trail-nesselwang.de">
-                    <img
-                      src="/images/fire-trail-nesselwang.svg"
-                      alt="Logo Fire Trail Nesselwang"
-                    />
-                    <p class="has-text-centered">
-                      <span>Fire Trail</span>
-                      <span>Nesselwang</span>
-                      <span class="tag mt-2 is-success">Sa, 18.10.25</span>
-                    </p>
-                  </a>
+                  <img
+                    src="/images/muensterturmlauf-ulm.svg"
+                    alt="Logo Münsterturmlauf Ulm"
+                  />
+                  <p class="has-text-centered">
+                    <span>Münsterturmlauf</span>
+                    <span>Ulm</span>
+                    <span class="tag mt-2 is-info">Fr, 12.06.26</span>
+                  </p>
                 </div>
                 <div class="column has-text-centered">
                   <a href="//www.schanzenlauf-oberstdorf.de">
