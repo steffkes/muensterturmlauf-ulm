@@ -150,7 +150,6 @@ useHead({
                     <p class="has-text-centered">
                       <span>Schachmatt</span>
                       <span>Ulm</span>
-                      <span class="has-text-grey-light">(Organisator)</span>
                     </p>
                   </a>
                 </div>
@@ -167,7 +166,6 @@ useHead({
                     <p class="has-text-centered">
                       <span>Fire Trail</span>
                       <span>Nesselwang</span>
-                      <span class="has-text-grey-light">(Organisator)</span>
                     </p>
                   </a>
                 </div>
@@ -180,7 +178,6 @@ useHead({
                     <p class="has-text-centered">
                       <span>Schanzenlauf</span>
                       <span>Oberstdorf</span>
-                      <span class="has-text-grey-light">(Initiator)</span>
                     </p>
                   </a>
                 </div>
