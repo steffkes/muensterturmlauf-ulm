@@ -139,6 +139,7 @@ useHead({
                   <p class="has-text-centered">
                     <span>Münsterturmlauf</span>
                     <span>Ulm</span>
+                    <span class="tag mt-2 is-info">Fr, 12.06.26</span>
                   </p>
                 </div>
                 <div class="column has-text-centered">
@@ -150,6 +151,7 @@ useHead({
                     <p class="has-text-centered">
                       <span>Schachmatt</span>
                       <span>Ulm</span>
+                      <span class="tag mt-2">Frühjahr '26</span>
                     </p>
                   </a>
                 </div>
@@ -166,6 +168,7 @@ useHead({
                     <p class="has-text-centered">
                       <span>Fire Trail</span>
                       <span>Nesselwang</span>
+                      <span class="tag mt-2 is-success">Sa, 18.10.25</span>
                     </p>
                   </a>
                 </div>
