@@ -3,8 +3,8 @@ export const event = {
   "@type": "SportsEvent",
   name: "Münsterturmlauf Ulm",
   description: "Feuerwehr-Treppenlauf auf das Ulmer Münster",
-  startDate: "2026-06-12",
-  endDate: "2026-06-12",
+  startDate: "2026-05-22",
+  endDate: "2026-05-22",
   eventStatus: "https://schema.org/EventScheduled",
   eventAttendanceMode: "https://schema.org/OfflineEventAttendanceMode",
   organizer: {
